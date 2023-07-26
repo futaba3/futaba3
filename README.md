@@ -1,9 +1,6 @@
 ### Hi there 👋
 <p align="left>
   <a href="https://github.com/futaba3">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=futaba3&show_icons=true&theme=tokyonight">
-  </a>
-  <a href="https://github.com/futaba3">
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futaba3&layout=compact&theme=tokyonight">
   </a>
 </p>
@@ -38,10 +35,16 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 
+### About Me
+経営学部に通っています。
 
 <!--
 **futaba3/futaba3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://github.com/futaba3">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=futaba3&show_icons=true&theme=tokyonight">
+  </a>
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
