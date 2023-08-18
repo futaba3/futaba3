@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,jquery,netlify)](https://skillicons.dev)
 
 #### 使ったことがある
-[![My Skills](https://skillicons.dev/icons?i=figma,php,laravel,docker,heroku,js,nodejs,vuejs,aws,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,php,laravel,docker,js,nodejs,vuejs,aws,postman)](https://skillicons.dev)
 
 AWSを用いてサーバーレスにWebAPIを作成したことがあります。
 
