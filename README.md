@@ -7,7 +7,7 @@
 
 ### Languages and Tools（勉強中）
 #### リリース経験あり
-[![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,jquery,netlify)](https://skillicons.dev)
 
 #### 使ったことがある
 [![My Skills](https://skillicons.dev/icons?i=figma,php,laravel,docker,heroku,js,nodejs,vuejs,aws,postman)](https://skillicons.dev)
