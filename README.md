@@ -12,6 +12,7 @@
 #### 使ったことがある
 [![My Skills](https://skillicons.dev/icons?i=figma,php,laravel,docker,js,nodejs,vuejs,aws,postman)](https://skillicons.dev)
 
+Smartyを用いたWebサイト開発の経験があります。
 AWSを用いてサーバーレスにWebAPIを作成したことがあります。
 
 #### いつか勉強したい
