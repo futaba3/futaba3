@@ -10,13 +10,13 @@
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,jquery,netlify)](https://skillicons.dev)
 
 #### 使ったことがある
-[![My Skills](https://skillicons.dev/icons?i=figma,php,laravel,docker,js,nodejs,vuejs,aws,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,php,laravel,docker,js,nodejs,vuejs,aws,postman,react)](https://skillicons.dev)
 
 Smartyを用いたWebサイト開発の経験があります。
 AWSを用いてサーバーレスにWebAPIを作成したことがあります。
 
 #### いつか勉強したい
-[![My Skills](https://skillicons.dev/icons?i=kotlin,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 
 ### About Me
 経営学部に通っています。
