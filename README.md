@@ -15,8 +15,8 @@
 Smartyを用いたWebサイト開発の経験があります。
 AWSを用いてサーバーレスにWebAPIを作成したことがあります。
 
-#### いつか勉強したい
-[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+#### 勉強したい
+[![My Skills](https://skillicons.dev/icons?i=kotlin,flutter)](https://skillicons.dev)
 
 ### About Me
 経営学部に通っています。
