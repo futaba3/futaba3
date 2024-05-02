@@ -7,16 +7,19 @@
 
 ### Languages and Tools（勉強中）
 #### リリース経験あり
-[![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,jquery,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,jquery,netlify,figma)](https://skillicons.dev)
 
 #### 使ったことがある
-[![My Skills](https://skillicons.dev/icons?i=figma,php,laravel,docker,js,nodejs,vuejs,aws,postman,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,docker,js,nodejs,vuejs,aws,postman,react)](https://skillicons.dev)
 
 Smartyを用いたWebサイト開発の経験があります。
 AWSを用いてサーバーレスにWebAPIを作成したことがあります。
 
+#### 勉強中
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+
 #### 勉強したい
-[![My Skills](https://skillicons.dev/icons?i=kotlin,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 
 ### About Me
 経営学部に通っています。
