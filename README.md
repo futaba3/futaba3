@@ -5,7 +5,14 @@
   </a>
 </p>
 
-### Languages and Tools（勉強中）
+<!--
+### Languages and Tools
+勉強中！
+
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,dart,html,css,jquery,firebase,figma,netlify,php,laravel,docker,js,nodejs,vuejs,aws,postman,react)](https://skillicons.dev)
+
+<!--
+
 #### リリース経験あり
 [![My Skills](https://skillicons.dev/icons?i=swift,firebase,html,css,jquery,netlify,figma)](https://skillicons.dev)
 
@@ -23,6 +30,7 @@ AWSを用いてサーバーレスにWebAPIを作成したことがあります�
 
 ### About Me
 経営学部に通っています。
+-->
 
 <!--
 **futaba3/futaba3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
